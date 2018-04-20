@@ -20,4 +20,12 @@ e) nLog(n) << n^2
 f) sqrt(n) >> log(n)
    f(n) pertence ao omega de g(n)
 
+exercicio 3
+
+a) O(n^3)
+  explcação: ((2n)^3)/(n^3) = 8
+
+b) t(n2)/f(n2) = t(n1)/f(n1)
+t(5000) = (5000^3)/(1200^3)*96
+
 */
